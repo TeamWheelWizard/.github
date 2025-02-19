@@ -21,11 +21,3 @@ Wheel Wizard, our mod manager, is created for the sole purpose of convenience. T
 Wheel Wizard was made by [patchzy](https://github.com/patchzyy) and [wanttobeeme](https://github.com/wanttobeeme). This application is completely free to use. You can go to the [latest releases](https://github.com/TeamWheelWizard/WheelWizard/releases) and download the executable there. Once installed, the app will automatically notify you when updates are available.
 
 Feel free to join our community on [Discord](https://discord.gg/vZ7T2wJnsq) for support and discussions! If you see any bugs, this is also the place to be :P
-
-
-<p align="center">
-  <img src="https://github.com/TeamWheelWizard/.github/blob/main/images/dashboard.png" alt="Wheel Wizard Logo" width="450"/>
-  <img src="https://github.com/TeamWheelWizard/.github/blob/main/images/my_stuff.png" alt="Wheel Wizard Logo" width="450"/>
-  <img src="https://github.com/TeamWheelWizard/.github/blob/main/images/room_details.png" alt="Wheel Wizard Logo" width="450"/>
-  <img src="https://github.com/TeamWheelWizard/.github/blob/main/images/settings.png" alt="Wheel Wizard Logo" width="450"/>
-</p>
